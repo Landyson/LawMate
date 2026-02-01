@@ -20,6 +20,9 @@ Aplikace **nenahrazuje advokáta**, ale dá:
     - zkontrolovat, že běží Ollama server,
     - a pokud chybí model, automaticky spustí `ollama pull ...`.
   - **Mock režim** (funguje i bez klíče – pro demo)
+ 
+## Spuštění (uživatel)
+- otevřete složku /dist/Lawmate zde naleznete Lawmate.exe to otevřte a tímto máte spuštěného právního chatbota
 
 ## Spuštění (vývoj)
 ```bash
