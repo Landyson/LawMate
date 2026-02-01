@@ -9,12 +9,12 @@ Aplikace **nenahrazuje advokáta**, ale dá:
 - orientační odkazy na judikaturu (Opendata rozhodnutí justice.cz).
 
 ## Funkce
-- ✅ 3 oblasti: **Trestní**, **Občanské**, **Právní řád ČR (obecně)**
-- ✅ Chat + historie uživatele (SQLite)
-- ✅ Semafor rizikovosti odpovědi
-- ✅ Doporučení „kdy už jít k právníkovi“
-- ✅ Tlačítko „Najít advokáta“ (ČAK vyhledávač)
-- ✅ Podpora AI providerů:
+- 3 oblasti: **Trestní**, **Občanské**, **Právní řád ČR (obecně)**
+- Chat + historie uživatele (SQLite)
+- Semafor rizikovosti odpovědi
+- Doporučení „kdy už jít k právníkovi“
+- Tlačítko „Najít advokáta“ (ČAK vyhledávač)
+- Podpora AI providerů:
   - **OpenAI** (API klíč)
   - **Ollama** (lokální model) – při prvním spuštění se aplikace pokusí:
     - zkontrolovat, že běží Ollama server,
